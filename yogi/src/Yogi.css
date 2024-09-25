@@ -1,0 +1,30 @@
+/* .container{
+    margin: auto;
+    padding: auto;
+    width: 80%;
+    border: 1px solid #ddd;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    box-sizing: border-box;
+    transition: background-color 0.3s ease;
+    text-align: center;
+ }
+
+ .container:hover {
+    background-color: #460f0f;
+ } */
+
+ .container {
+    height: 150px;
+    width: 400px;
+    background-color: aqua;
+    text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+    transition: background-color 0.3s ease;
+    margin-top: 30px;
+ }
